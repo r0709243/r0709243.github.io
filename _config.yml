@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 theme: jekyll-theme-cayman
 title: RewinedDocs
 description: [De plek voor onze documentatie!]
@@ -13,3 +14,6 @@ github:
 
 plugins:
   - jekyll-seo-tag
+=======
+theme: jekyll-theme-cayman
+>>>>>>> d52abf5333b1f9f00fb3ae4acd917c99b7454b34
